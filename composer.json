@@ -1,0 +1,19 @@
+{
+    "name": "inibox/test",
+    "description": "the Test pack",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ekaterina Shvetsova",
+            "email": "inibox.e@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "iniBOX\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
