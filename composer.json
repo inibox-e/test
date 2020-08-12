@@ -12,7 +12,7 @@
     
     "autoload": {
         "psr-4": {
-            "Inibox-e\\Test\\": "src"
+            "inibox-e\\test\\": "src"
         }
     },
     "require": {}
