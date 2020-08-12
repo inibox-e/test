@@ -1,5 +1,5 @@
 {
-    "name": "inibox/test",
+    "name": "inibox-e/test",
     "description": "the Test pack",
     "type": "project",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "inibox-e\\test\\": "src"
+            "Inibox-e\\Test\\": "src"
         }
     },
     "require": {}
